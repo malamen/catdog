@@ -46,7 +46,7 @@ C++
 
 #PC
 
-Macbook pro mid 2012 (only available here)
+Macbook pro mid 2012 (only I have here)
 
 2,5 GHz Intel Core i5
 

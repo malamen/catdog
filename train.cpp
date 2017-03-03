@@ -31,8 +31,8 @@ int main(int argc, char** argv_) {
 
 	/*- In variables -*/
 
-	int max_cat_train = 250;//12500; //problem size of dataset and available time (kmeans)
-	int max_dog_train = 250;//12500;
+	int max_cat_train = 500;//12500; //problem size of dataset and available time (kmeans)
+	int max_dog_train = 500;//12500;
 	int vocabulary_size = 1000;
 	int orb_size = 400;
 	char int_str[32];
@@ -73,7 +73,7 @@ int main(int argc, char** argv_) {
 
 	cout << "-------- train BOW SVM -----------" << endl;
 
-	cout << " Get vocabulary " << endl;
+	cout << "Get vocabulary " << endl;
 
 	
 	cout<< "Getting cats words" << endl;
